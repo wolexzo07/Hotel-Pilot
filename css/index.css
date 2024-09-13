@@ -1,0 +1,51 @@
+.bookin-form{
+    background-color:;
+    opacity:0.9;
+    position:fixed;
+    top:10%;
+    bottom:;
+    left:5%;
+    right:;
+    z-index:5000;
+}
+
+.booking-form{
+   opacity:0.9;
+   margin-top:100pt;
+   margin-left:30pt;
+}
+
+.vid-mgmt{
+    margin-top:100pt;
+    width:100%;
+    display:none;
+    opacity:0.9;
+}
+
+.br-name{
+    margin-left:20pt;
+}
+
+body{
+    background-image: url("../img/bg1.jpg");
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+    transition: background-image 1s ease-in-out;
+    background-position: center;
+}
+
+.img-logo{
+    width:100px;
+    position:fixed;
+    left:40%;
+    top:10pt;
+    right:0pt;
+}
+
+.link-none {text-decoration:none;color:;font-size:10pt;}
+.link-none:hover {text-decoration:none;color:;font-size:12pt;font-weight:bold;}
+
+.l-img{}
+
+.img-upload{border-radius:500px;width:120px;}
